@@ -1,6 +1,6 @@
 # mips-instruction-to-binary-conversion-java
 
-Java Program (no other language will be accepted) that takes a MIPS assembly
+Java Program that takes a MIPS assembly
 instruction as input and produces the corresponding binary instruction as output. The input assembly
 instruction will be given exactly in the format assembly instructions are written in David Patterson and
 John Hennessy’s reference book for the class. For example: add $s0, $t7, $s1 is a valid input. Every input
